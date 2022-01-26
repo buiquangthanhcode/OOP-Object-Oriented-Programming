@@ -1,0 +1,18 @@
+Câu d : Cho biết thứ tự gọi của phương thức tạo lập và phương thức hủy của đoạn chương trình 
+
+1. Phương thức tạo lập có hai tham số truyền vào là kiểu string(đại diện cho tên ) và int (đại diện cho số ngày làm việc) của đối tượng a thuộc lớp NhanVien
+2. Phương thức  tạo lập copy constructor (Copy đối tượng a vào đối tượng b thuộc lớp NhanVien )
+---Trong vòng lặp for ----------
+3. Phương thức tạo lập copy constructor (copy đối tượng b vào đối tượng clone thuộc lớp NhanVien)
+4.Phương thức hủy đối tượng clone
+5. Phương thức tạo lập copy constructor (copy đối tượng b vào đối tượng clone thuộc lớp NhanVien)
+6.Phương thức hủy đối tượng clone
+7. Phương thức tạo lập copy constructor (copy đối tượng b vào đối tượng clone thuộc lớp NhanVien)
+8.Phương thức hủy đối tượng clone
+9. Phương thức tạo lập copy constructor (copy đối tượng b vào đối tượng clone thuộc lớp NhanVien)
+10.Phương thức hủy đối tượng clone
+11. Phương thức tạo lập copy constructor (copy đối tượng b vào đối tượng clone thuộc lớp NhanVien)
+12.Phương thức hủy của đối tượng clone
+-----Kết thúc vòng lặp for-----
+13.Phương thức hủy đối tượng b	
+14.Phương thức hủy của đối tượng a
